@@ -44,3 +44,6 @@ This project will also allow you to practice web development by using HTML and C
 
    example:
    ![Example image of my about me page!](./public/Example.png)
+
+3. **Deploy**:
+  We will deploy our projects together once everyone has completed **step 2**, this will mean that your project will be live on the web. You can show you friends and whānau. Sik! 
