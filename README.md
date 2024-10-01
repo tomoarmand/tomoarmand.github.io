@@ -13,12 +13,12 @@ Welcome to **My Journey**, a personal growth project designed to help learners b
 
 ## Project Overview
 
-The **My Journey** project provides the skeleton for a learner's personal development through HTML pages. It encourages students to explore the following aspects:
+The **My Journey** project provides the basics for a learner's personal development through HTML pages. It encourages students to explore the following aspects:
 
-1. **About Me**: A personal page to reflect on who they are.
+1. **About Me**: A personal page to introduce yourself to readers.
 2. **Individual Learning Plan**: A structured plan to outline personal and academic goals.
-3. **Well-being Plan**: A plan to support mental, emotional, and physical well-being.
-4. **Self-transformation Programme**: Learnings based on **Atomic Habits** and a **Growth Mindset** approach.
+3. **Well-being Plan**: A well-being plan based on Te Whare Tapa Whā the Māori Health Framework created by Tā Mason Durie.
+4. **Self-transformation Programme**: Learnings based on **Atomic Habits** and a **Growth Mindset** and more.
 
 This project also allows learners to practice web development, specifically with HTML and CSS.
 
@@ -29,13 +29,12 @@ Here is an overview of the main folders and files in this repository:
 
 ## Features
 
-- **About Me Page**: A simple page where learners can introduce themselves, reflecting on their personal and academic journey.
+- **About Me Page**: A simple page where learners can introduce themselves.
 - **Learning Plan**: A framework for learners to set and track personal goals.
 - **Well-being Plan**: A section dedicated to nurturing self-care and mindfulness.
 - **Self-transformation Programme**:
-  - **Atomic Habits**: Learners can document their learnings from the popular book and apply the habit-building techniques in their lives.
+  - **Atomic Habits**: Learners can document their learnings from the popular book and worksheets and apply the habit-building techniques into their lives.
   - **Growth Mindset**: A space for students to reflect on adopting a growth mindset for learning and self-improvement.
-- **CSS Styling**: A `styles.css` file is included for learners to experiment with visual design and enhance their HTML pages.
 
 ## Getting Started
 
