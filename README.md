@@ -1,6 +1,6 @@
 # My Journey
 
-Welcome to **My Journey**, a personal growth project designed to help learners build a strong foundation for self-reflection, goal-setting, and well-being. This repository contains essential files for creating an About Me page, an Individual Learning Plan, and a Well-being Plan. It also includes additional resources for developing a growth mindset and practicing healthy habits. This will also be used as your own personal learning record where you can update and add your own personal learnings.
+Welcome to **My Journey**, a personal growth blog project designed by you for you.
 
 ## Table of Contents
 
@@ -22,11 +22,6 @@ The **My Journey** project provides the basics for a learner's personal developm
 
 This project also allows learners to practice web development, specifically with HTML and CSS.
 
-## Folder Structure
-
-Here is an overview of the main folders and files in this repository:
-
-
 ## Features
 
 - **About Me Page**: A simple page where learners can introduce themselves.
@@ -43,3 +38,8 @@ Here is an overview of the main folders and files in this repository:
 
    ```bash
    git clone https://github.com/your-username/my-journey.git
+
+2. **Where to next**:
+   Begin by introducing yourself on the **index.html** page
+   example:
+   ![Example image of my about me page!]()
