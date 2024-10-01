@@ -9,7 +9,7 @@ Welcome to **My Journey**, a personal growth project designed to help learners b
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
+<!-- - [License](#license) -->
 
 ## Project Overview
 
