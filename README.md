@@ -5,9 +5,9 @@ Welcome to **My Journey**, a personal growth blog project designed by you for yo
 ## Table of Contents
 
 - [Project Overview & Features](#project-overview-&-Features)
+- [Getting Started](#getting-started)
 <!-- - [Folder Structure](#folder-structure) -->
 <!-- - [Features](#features) -->
-- [Getting Started](#getting-started)
 <!-- - [Contributing](#contributing) -->
 <!-- - [License](#license) -->
 
