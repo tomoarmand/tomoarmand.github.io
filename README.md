@@ -1,6 +1,6 @@
 # My Journey
 
-Welcome to **My Journey**, a personal growth project designed to help learners build a strong foundation for self-reflection, goal-setting, and well-being. This repository contains essential files for creating an About Me page, an Individual Learning Plan, and a Well-being Plan. It also includes additional resources for developing a growth mindset and practicing healthy habits.
+Welcome to **My Journey**, a personal growth project designed to help learners build a strong foundation for self-reflection, goal-setting, and well-being. This repository contains essential files for creating an About Me page, an Individual Learning Plan, and a Well-being Plan. It also includes additional resources for developing a growth mindset and practicing healthy habits. This will also be used as your own personal learning record where you can update and add your own personal learnings.
 
 ## Table of Contents
 
