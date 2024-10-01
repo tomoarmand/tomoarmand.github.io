@@ -13,7 +13,7 @@ Welcome to **My Journey**, a personal growth blog project designed by you for yo
 
 ## Project Overview & Features
 
-The **My Journey** project provides the basics for a learner's personal development through HTML pages. It encourages students to explore the following aspects:
+The **My Journey** project provides a space for you to learn and practice your web development skills:
 
 1. **About Me**: A personal page to introduce yourself to readers.
 2. **Individual Learning Plan**: A structured plan to outline personal and academic goals.
@@ -41,6 +41,6 @@ This project will also allow you to practice web development by using HTML and C
 
 2. **Where to next**:
    Begin by introducing yourself on the **index.html** page. At this stage we only expect you to complete the **About Me** part of your project.
-   
+
    example:
    ![Example image of my about me page!](./public/Example.png)
