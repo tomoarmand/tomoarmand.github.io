@@ -41,5 +41,6 @@ This project will also allow you to practice web development by using HTML and C
 
 2. **Where to next**:
    Begin by introducing yourself on the **index.html** page. At this stage we only expect you to complete the **About Me** part of your project.
+   
    example:
    ![Example image of my about me page!](./public/Example.png)
