@@ -4,11 +4,11 @@ Welcome to **My Journey**, a personal growth blog project designed by you for yo
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Folder Structure](#folder-structure)
-- [Features](#features)
+- [Project Overview & Features](#project-overview-&-Features)
+<!-- - [Folder Structure](#folder-structure) -->
+<!-- - [Features](#features) -->
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
+<!-- - [Contributing](#contributing) -->
 <!-- - [License](#license) -->
 
 ## Project Overview & Features
