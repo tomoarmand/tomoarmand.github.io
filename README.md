@@ -39,9 +39,12 @@ The **My Journey** project provides a space for you to learn and practice your w
 
 2. **Where to next**:
    Begin by introducing yourself on the **index.html** page. At this stage we only expect you to complete the **About Me** part of your project.
+   - Introduce yourself, Where are you from?
+   - Talk about your interests,
+   - Talk about your goals and aspirations,
 
    example:
    ![Example image of my about me page!](./public/Example.png)
 
-3. **Deploy**:
+4. **Deploy**:
   We will deploy our projects together once everyone has completed **step 2**, this will mean that your project will be live on the web. You can show you friends and whānau. Sik! 
