@@ -13,12 +13,12 @@ Welcome to **My Journey**, a personal growth blog project designed by you for yo
 
 ## Project Overview & Features
 
-The **My Journey** project provides a space for you to learn and practice your web development skills:
+The **My Journey** project provides a space for you to learn and practice your web development skills, it features:
 
-1. **About Me**: A personal page to introduce yourself to readers.
-2. **Individual Learning Plan**: A structured plan to outline personal and academic goals.
+1. An **About Me** page: A personal page to introduce yourself to viewers.
+2. **Individual Learning Plan**: A structured plan to outline your personal and academic goals.
 3. **Well-being Plan**: A well-being plan based on Te Whare Tapa Whā the Māori Health Framework created by Tā Mason Durie.
-4. **Self-transformation Programme**: Learnings based on **Atomic Habits** and a **Growth Mindset** and more.
+4. **Self-transformation Programme**: Learnings based on The **Atomic Habits** book and worksheets, **Growth Mindset** and more to help you on your journey.
 
 <!-- ## Features -->
 
