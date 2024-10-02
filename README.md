@@ -20,8 +20,6 @@ The **My Journey** project provides a space for you to learn and practice your w
 3. **Well-being Plan**: A well-being plan based on Te Whare Tapa Whā the Māori Health Framework created by Tā Mason Durie.
 4. **Self-transformation Programme**: Learnings based on **Atomic Habits** and a **Growth Mindset** and more.
 
-This project will also allow you to practice web development by using HTML and CSS.
-
 <!-- ## Features -->
 
 <!-- - **About Me Page**: A simple page where learners can introduce themselves.
