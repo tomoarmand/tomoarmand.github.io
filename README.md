@@ -49,4 +49,4 @@ The **My Journey** project provides a space for you to learn and practice your w
 4. **Deploy**:
   We will deploy our projects together once everyone has completed **step 2**, this will mean that your project will be live on the web. You can show you friends and whānau. Sik!
 
- *NOTE*: None of the pages are linked to each other
+ *NOTE*: None of the pages in this repo are linked up together.
