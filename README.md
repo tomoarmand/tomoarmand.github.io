@@ -34,7 +34,7 @@ The **My Journey** project provides a space for you to learn and practice your w
 1. **Fork the repository**:
    - To get started, fork this repository,
    - Make yourself the owner,
-   - Name it **<user_name>.github.io**,
+   - Change Repository name to **<user_name>.github.io**,
    - Make sure the Copy the main branch is checked ✅
    - Click **Create fork** button,
 
