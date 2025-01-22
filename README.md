@@ -20,22 +20,19 @@ The **My Journey** project provides a space for you to learn and practice your w
 3. **Well-being Plan**: A well-being plan based on Te Whare Tapa Whā the Māori Health Framework created by Tā Mason Durie.
 4. **Self-transformation Programme**: Learnings based on The **Atomic Habits** book and worksheets, **Growth Mindset** and more to help you on your journey.
 
-<!-- ## Features -->
+## Features
 
-<!-- - **About Me Page**: A simple page where learners can introduce themselves.
+- **About Me Page**: A simple page where learners can introduce themselves.
 - **Learning Plan**: A framework for learners to set and track personal goals.
 - **Well-being Plan**: A section dedicated to nurturing self-care and mindfulness.
 - **Self-transformation Programme**:
   - **Atomic Habits**: Learners can document their learnings from the popular book and worksheets and apply the habit-building techniques into their lives.
-  - **Growth Mindset**: A space for students to reflect on adopting a growth mindset for learning and self-improvement. -->
+  - **Growth Mindset**: A space for students to reflect on adopting a growth mindset for learning and self-improvement.
 
 ## Getting Started
 
-1. **Clone the repository**:
-   To get started, clone this repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/your-username/my-journey.git
+1. **Fork the repository**:
+   To get started, fork this repository and name it **<user_name>.github.io**
 
 2. **Where to next**:
    Begin by introducing yourself on the **index.html** page. At this stage we only expect you to complete the **About Me** part of your project.
