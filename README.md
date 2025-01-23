@@ -37,6 +37,7 @@ The **My Journey** project provides a space for you to learn and practice your w
    - Change Repository name to **<user_name>.github.io**,
    - Make sure the Copy the main branch is checked ✅
    - Click **Create fork** button,
+   - <img width="493" alt="Screenshot 2025-01-24 at 12 15 07" src="https://github.com/user-attachments/assets/bcc4b04e-cb8d-44d7-b360-af485584e80e" />
 
 2. **Where to next**:
    Begin by introducing yourself on the **index.html** page. At this stage we only expect you to complete the **About Me** part of your project.
