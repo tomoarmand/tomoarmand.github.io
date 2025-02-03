@@ -193,6 +193,7 @@ html {
   border: 2px solid black;
 }
 
+#supermarkets {padding-bottom:30px}
 
 .image-grid-col2 {
   grid-column: span 2
