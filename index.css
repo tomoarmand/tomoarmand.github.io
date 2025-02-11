@@ -201,8 +201,8 @@ hr {
   font-size: 17px
 }
 
-.lp-body h2,
-.lp-body p {
+.learning-plan,
+.goals {
   padding-left: 8px;
 }
 
@@ -223,6 +223,8 @@ hr {
   background-color: #fbf2d5;
   color: #394a51;
 }
+
+/* ====== Atomic Habits Styles ====== */
 
 /* ====== Media Queries ====== */
 @media screen and (max-width: 1024px) {
