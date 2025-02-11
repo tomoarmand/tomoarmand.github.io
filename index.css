@@ -14,6 +14,8 @@ hr {
   background-color: gray;
 }
 
+
+
 /* ====== Typography ====== */
 
 
@@ -27,7 +29,7 @@ hr {
   text-decoration: underline;
 }
 
-h3 {
+.sub-heading {
   text-align: center;
   color: white;
   padding-top: 15px;
@@ -204,6 +206,8 @@ h3 {
   padding-left: 8px;
 }
 
+.lp-body{margin:0}
+
 .lp-body h2 {
   font-size: 20px;
   padding-top: 12px
@@ -217,7 +221,7 @@ h3 {
 
 .goals {
   background-color: #fbf2d5;
-  color: #394a51
+  color: #394a51;
 }
 
 /* ====== Media Queries ====== */
