@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', () => {
 
 alert("Welcome to my website!");
 
@@ -35,4 +36,6 @@ scrollButton.style.display = 'none';
 
 scrollButton.addEventListener('click', () => {
 window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
 });
