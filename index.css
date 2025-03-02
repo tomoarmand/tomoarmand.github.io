@@ -273,6 +273,7 @@ html {
 .atomic-body {
   background-color: #394a51;
   color: #fdc57b;
+  margin:0;
 }
 
 
@@ -289,24 +290,21 @@ html {
 .atomic-body p {
   font-size: 17px;
   padding-bottom: 8px;
-  margin-top: 10px
+  margin-top: 10px;
+  padding-left:8px;
 }
 
-
-.atomic-body {
-  padding-left: 8px;
-  margin: 0;
-}
 
 .atomic-body h2 {
   font-size: 20px;
   padding-top: 12px;
+  padding-left:8px;
 }
 
 .atomic-body h3 {
   margin-bottom: 0;
+  padding-left:8px;
 }
-
 
 .atomic-body {
   background-color: #394a51;
